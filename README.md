@@ -91,4 +91,4 @@ Repository for Technical Assignment Week 7
       
 6. Pada tahap ini kamu lupa jika sebenarnya *file* `portfolio.txt` serahusnya tidak berada pada *folder* `sekolah`, jadi kamu harus **memindahkannya** ke dalam folder `kerja`
 
-  ![image](https://user-images.githubusercontent.com/67363618/183667902-00549089-0bd5-42c6-a2ff-3221e6fb9a52.png)
+   ![image](https://user-images.githubusercontent.com/67363618/183667902-00549089-0bd5-42c6-a2ff-3221e6fb9a52.png)
